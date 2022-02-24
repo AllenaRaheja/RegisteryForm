@@ -1,0 +1,4 @@
+h1{color: gold; text-align: center; background-color: black; border: 3px gold double; font-family: fantasy;}
+fieldset{background-color: black; border: 3px gold double; font-family: fantasy; font-weight: 400; color: gold; text-align: center; margin-left: 300px; margin-right: 300px;}
+body{background: linear-gradient(to left, white, silver, navy)}
+#button{color: gold; width: 150px; background-color: white; border: 2px gold double; font-size: 30pxpx; font-family: fantasy;}
